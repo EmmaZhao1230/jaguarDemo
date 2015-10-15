@@ -10,6 +10,7 @@ int main(int argc, char* argv[])
         printf("Hello world!");
         putchar('\n');
         printf("Hello world - Peter!");
+        printf("Hello Everyone!")
     }
     return 0;
 }
